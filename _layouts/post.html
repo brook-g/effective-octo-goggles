@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<a class="muted small" href="/">{{ site.title | escape }}</a>
+<h1>{{ page.title | escape }}</h1>
+<hr class="hr2">
+
+{{ content }}
+
+<p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
+<hr class="hr2">
+{%- include footer.html -%}
