@@ -3,11 +3,11 @@ body {
     line-height: 1.5em;
     font-size: 1em;
     text-rendering: optimizeLegibility;
-    color: #1c271d;
+    color: #363737;
     max-width: 40rem;
     padding: 2rem;
     margin: auto;
-    background: #FFFBFE; 
+    background: #F5F5F5; 
   }
   
   header {
