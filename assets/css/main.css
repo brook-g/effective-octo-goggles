@@ -44,6 +44,14 @@ body {
     margin-bottom: 1em;
   }
   
+  .subtitle {
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 28px;
+    margin: 4px 0 0;
+    color: #828383;
+  }
+
   h2, h3 {
     font-size: 1.3em; 
     margin-top: 1.3em;
