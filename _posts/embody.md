@@ -1,0 +1,27 @@
+---
+layout: post
+---
+
+*meaning is lived in all aspects, with all strength, at all moments*
+
+A wise man once said life is vanity, like chasing the wind. A wiser One said one can feel the effects of the wind but cannot see it.
+
+Is life's meaning is so sublime, so subtle, profound and invisible that it cannot be found using the 5 senses? Or even chased?
+
+Is it something that is found? or lost? Or is it a choice one makes to trust their instinct and live to make the Greatest Good?
+
+Our days are numbered. And the time it takes to *find* meaning could be replaced by practicing it. What is "it"? The smallest step one can take to find meaning. It is the simplest thing or activity one can do, the low effort action.
+
+There is a perceived exaggeration of "finding meaning", especially in social media. A glorified journey of sorts. What if:
+
+1. Meaning is neither lost nor found but embodied by starting with something one is already doing?
+
+2. Meaning is clarified more simply by consistently practicing different ways of embodying it?
+
+My approach to finding meaning has been a structured, step by step one. With it came very high expectations - imagined moments of epiphany, euphoria, and making a complete 180 afterwards.
+
+But it really isn't like that. Meaning is embodied. Meaning is practiced. And it starts with that one step, an attempt. Step by step, one foot in front of the other. Practice breeds conviction.
+
+> _"We become what we repeatedly do"_ -- Stephen Covey
+
+This specific writing is a step. Convenience brings ease of practice. With consistent practice, embodiment begins. The length and stretch of how far this consistent practice will go is yet to be determined. But being here is a blessing in itself.
