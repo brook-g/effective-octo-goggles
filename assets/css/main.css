@@ -1,208 +1,207 @@
 body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-    line-height: 1.6em;
-    font-size: 1em;
-    text-rendering: optimizeLegibility;
-    color: #363737;
-    max-width: 40rem;
-    padding: 2rem;
-    margin: auto;
-    background: #F5F5F5; 
-  }
-  
-  header {
-    display: block;
-    width: 100%;
-    float: left;
-  }
-  
-  img {
-    max-width: 100%; 
-  }
-  
-  a {
-    color: #363737; 
-  }
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  line-height: 1.6em;
+  font-size: 1em;
+  text-rendering: optimizeLegibility;
+  color: #363737;
+  max-width: 40rem;
+  padding: 2rem;
+  margin: auto;
+  background: #F5F5F5; 
+}
 
-  a:hover {
-    color: #7c7c7c;
-    cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='24' height='32' viewport='0 0 0 0' style='fill:black;font-size:16px;'><text y='50%'>👀</text></svg>") 0 0,auto;
-  }
+header {
+  display: block;
+  width: 100%;
+  float: left;
+}
 
-  a:visited {
-  #  color: #7c7c7c;
-  }
-  
-  h1, h2, strong {
-    color: #363737;
-    text-transform: capitalize;
-  }
-  
-  h1 {
-    font-size: 1.6em;
-    line-height: 1.25;
-    margin-bottom: 1em;
-  }
-  
-  .subtitle {
-    font-weight: 400;
-    font-size: 19px;
-    line-height: 28px;
-    margin-top: -0.6em;
-    color: #828383;
-    text-transform: lowercase;
-  }
+img {
+  max-width: 100%; 
+}
 
-  h2, h3 {
-    font-size: 1.3em; 
-    margin-top: 1.3em;
-    margin-bottom: 0.2em; 
-    font-weight: 600;
-    text-transform: capitalize;
-  }
-  
-  h3 {
-    font-size: 1.1em; 
-    font-style: normal;  
-  }
-  
-  p {
-    margin-top: 0.5em;
-    margin-bottom: 1em;
-  }
-  
-  li {
-    margin-top: 0.5em;
-    margin-bottom: 0.66em;
-  }
-  
-  hr {
-    border: 0px;
-    background: repeating-linear-gradient(to right, transparent, transparent 5px, #e6e4d9 5px, #e6e4d9 7px) center;
-    width: 100%;
-    margin-top: 2em;
-    margin-bottom: 2em
-  }
+a {
+  color: #363737; 
+}
 
-  .hr1 {
-    border: 0px;
-    border-top: 1px solid #e6e4d9;
-    width: 75%;
-    margin-top: 2em;
-    margin-bottom: 2em;
-  }
+a:hover {
+  color: #7c7c7c;
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='24' height='32' viewport='0 0 0 0' style='fill:black;font-size:16px;'><text y='50%'>👀</text></svg>") 0 0,auto;
+}
 
-  .hr2 {
-    border: 0px;
-    border-top: 1px solid #e6e4d9;
-    width: 100%;
-    margin-top: 2em;
-    margin-bottom: 2em;
+a:visited {
+#  color: #7c7c7c;
+}
+
+h1, h2, strong {
+  color: #363737;
+  text-transform: capitalize;
+}
+
+h1 {
+  font-size: 1.6em;
+  line-height: 1.25;
+  margin-bottom: 1em;
+}
+
+.subtitle {
+  font-weight: 400;
+  font-size: 1em;
+  margin-top: -1em;
+  color: #828383;
+  text-transform: lowercase;
+}
+
+h2, h3 {
+  font-size: 1.3em; 
+  margin-top: 1.3em;
+  margin-bottom: 0.2em; 
+  font-weight: 600;
+  text-transform: capitalize;
+}
+
+h3 {
+  font-size: 1.1em; 
+  font-style: normal;  
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+li {
+  margin-top: 0.5em;
+  margin-bottom: 0.66em;
+}
+
+hr {
+  border: 0px;
+  background: repeating-linear-gradient(to right, transparent, transparent 5px, #e6e4d9 5px, #e6e4d9 7px) center;
+  width: 100%;
+  margin-top: 2em;
+  margin-bottom: 2em
+}
+
+.hr1 {
+  border: 0px;
+  border-top: 1px solid #e6e4d9;
+  width: 75%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.hr2 {
+  border: 0px;
+  border-top: 1px solid #e6e4d9;
+  width: 100%;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+code, .highlight {
+  background: #dee1e4;
+  padding: 3px;
+  word-wrap: break-word;
+  white-space: pre-wrap;       
+  white-space: -moz-pre-wrap;  
+  white-space: -pre-wrap;      
+  white-space: -o-pre-wrap;
+  margin: 0;   
+}
+
+.highlight {
+  padding-left: 1em;
+}
+
+.muted {
+  color: #aaa;
+  text-decoration: none; 
+}
+
+.small {
+  font-size: .8em; 
+}
+
+.green { 
+  background-color: #00A667;
+}
+
+.yellow { 
+  background-color: #F5BA00;
+}
+
+.orange { 
+  background-color: #F58F00; 
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #eee;
+  padding: 0.5em;
+}
+
+ul {
+  padding-left: 20px;
+}  
+
+blockquote {
+  font-family: "Georgia";
+  font-style: normal;
+  margin-left: 0em;
+  color: #6a6a6a;
+  margin-right: 0em;
+  position: relative;
+}
+
+blockquote::before {
+  content: "\201C"; /* Unicode character for left double quotation mark */
+  position: absolute; /* Position the quotation mark absolutely */
+  top: 0; /* Adjust the top position as needed */
+  left: -0.5em; /* Adjust the left position as needed */
+  font-size: 1.5em; /* Adjust the font size as needed */
+  color: rgba(0, 0, 0, 0.15); /* Change to your preferred color */
+}
+
+/* Dark Mode */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #000000;
+    color: #bdbdbd;
   }
-  
-  code, .highlight {
-    background: #dee1e4;
-    padding: 3px;
-    word-wrap: break-word;
-    white-space: pre-wrap;       
-    white-space: -moz-pre-wrap;  
-    white-space: -pre-wrap;      
-    white-space: -o-pre-wrap;
-    margin: 0;   
-  }
-  
-  .highlight {
-    padding-left: 1em;
+  h1, h2, h3, h4, strong {
+    color: #e3e3e3;
   }
   
   .muted {
-    color: #aaa;
+    color: #737373;
     text-decoration: none; 
   }
   
-  .small {
-    font-size: .8em; 
+  hr {
+    background: repeating-linear-gradient(to right, transparent, transparent 5px, #404040 5px, #404040 7px) center;
   }
-  
-  .green { 
-    background-color: #00A667;
+
+  .hr1 {
+    border-top: 1px solid #404040;
   }
-  
-  .yellow { 
-    background-color: #F5BA00;
+
+  .hr2 {
+    border-top: 1px solid #404040;
   }
-  
-  .orange { 
-    background-color: #F58F00; 
+
+  a {
+    color: #d1d1d1;
   }
-  
-  table {
-    border-collapse: collapse;
-  }
-  
-  table, th, td {
-    border: 1px solid #eee;
-    padding: 0.5em;
-  }
-  
-  ul {
-    padding-left: 20px;
-  }  
 
   blockquote {
-    font-family: "Georgia";
-    font-style: normal;
-    margin-left: 0em;
-    color: #6a6a6a;
-    margin-right: 0em;
-    position: relative;
+    color: #808080; /* Adjust text color for blockquote in dark mode */
   }
-  
+
   blockquote::before {
-    content: "\201C"; /* Unicode character for left double quotation mark */
-    position: absolute; /* Position the quotation mark absolutely */
-    top: 0; /* Adjust the top position as needed */
-    left: -0.5em; /* Adjust the left position as needed */
-    font-size: 1.5em; /* Adjust the font size as needed */
-    color: rgba(0, 0, 0, 0.15); /* Change to your preferred color */
+    color: rgba(255, 255, 255, 0.3); /* Adjust quotation mark color for dark mode */
   }
-  
-  /* Dark Mode */
-
-  @media (prefers-color-scheme: dark) {
-    body {
-      background: #000000;
-      color: #bdbdbd;
-    }
-    h1, h2, h3, h4, strong {
-      color: #e3e3e3;
-    }
-    
-    .muted {
-      color: #737373;
-      text-decoration: none; 
-    }
-    
-    hr {
-      background: repeating-linear-gradient(to right, transparent, transparent 5px, #404040 5px, #404040 7px) center;
-    }
-
-    .hr1 {
-      border-top: 1px solid #404040;
-    }
-
-    .hr2 {
-      border-top: 1px solid #404040;
-    }
-
-    a {
-      color: #d1d1d1;
-    }
-  
-    blockquote {
-      color: #808080; /* Adjust text color for blockquote in dark mode */
-    }
-  
-    blockquote::before {
-      color: rgba(255, 255, 255, 0.3); /* Adjust quotation mark color for dark mode */
-    }
