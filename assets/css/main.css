@@ -50,6 +50,7 @@ body {
     line-height: 28px;
     margin: 4px 0 0;
     color: #828383;
+    text-transform: lowercase;
   }
 
   h2, h3 {
