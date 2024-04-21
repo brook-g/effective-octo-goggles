@@ -48,7 +48,7 @@ body {
     font-weight: 400;
     font-size: 19px;
     line-height: 28px;
-    margin: 4px 0 0;
+    margin-top: -1em;
     color: #828383;
     text-transform: lowercase;
   }
