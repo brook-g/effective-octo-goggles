@@ -101,9 +101,9 @@ hr {
 
 .hr3 {
   margin-top: 3rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   margin-top: calc(2em + 2vh);
-  margin-bottom: calc(2em + 2vh);
+  margin-bottom: calc(1.5em + 1.5vh);
   display: block;
   border: 0;
   background: none;
