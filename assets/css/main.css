@@ -99,6 +99,29 @@ hr {
   margin-bottom: 2em;
 }
 
+.hr3 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+  margin-top: calc(2em + 2vh);
+  margin-bottom: calc(2em + 2vh);
+  display: block;
+  border: 0;
+  background: none;
+  text-align: center;
+  overflow: visible;
+  &:before {
+    content: '\2022\2022\2022';
+    display: inline-block;
+    font-size: .5em;
+    font-size: calc(.8em + .2vw);
+    margin-left: 0.6em;
+    letter-spacing: 1.25em;
+    color: var(--color-tx-faint);
+    position: relative;
+    top: -0.75em;
+  }
+}
+
 code, .highlight {
   background: #dee1e4;
   padding: 3px;
