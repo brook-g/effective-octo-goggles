@@ -2,7 +2,7 @@
 layout: post
 subtitle: ubiquity as artistic style
 ---
-Like the pen, the keyboard has become a uniquely powerful tool is building worlds, [playing games](https://twitter.com/cryptothegame_), [exposing secrets](https://twitter.com/Snowden), [investigative work](https://twitter.com/zachxbt), and more. It served as a unique interface between the mind and the digital world.
+Like the pen, the keyboard has become a uniquely powerful tool is [building worlds](https://twitter.com/0x113d), [playing games](https://twitter.com/cryptothegame_), [exposing secrets](https://twitter.com/Snowden), [investigative work](https://twitter.com/zachxbt), and more. It served as a unique interface between the mind and the digital world.
 
 [June 1, 2007](https://www.timetoast.com/timelines/evolution-of-the-mobile-phone-keyboard) kicked off a teleportation of a physical interface into the digital realm. The touchscreen removed the need for physicality in portable digital devices. What started off as a trend soon became a ubiquity. It went digital, and has come to serve more than one function, while taking up less space. Digital keyboards made it easy to switch between languages, use symbols, and emojis – all in one device. Convenience at its best.
 
