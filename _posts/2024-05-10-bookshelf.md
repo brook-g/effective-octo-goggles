@@ -2,13 +2,14 @@
 layout: post
 subtitle: a short list of books i'm interested in
 ---
-This website is somewhat a way to keep myself accountable, cultivate clarity, and share what's on my mind in hopes that you can benefit from it. This article will become a page of its own in the future.
+Admittedly, I am not an avid reader as I'd like to be. Below, I have shared my book recommendations along with how much of it I have read. If you found any of these recommendations interesting, want to recommend me some books, or simply want to discuss ideas, reach out to me on [Twitter](https://twitter.com/MrBrookG).
 
-Admittedly, I am not an avid reader as I'd like to be, yet. Reading helps me understand life and living better. And I am sharing my recommendation in hopes it helps you too.
+This post will be updated.
 
-This article will be modified in the future.
+---
+{: .hr3}
 
-Books I've fully read and recommend:
+### Books I've fully read and recommend:
 
 - [Between the World and Me](https://www.goodreads.com/book/show/25489625-between-the-world-and-me)
 - [The Road to Character](https://www.goodreads.com/book/show/22551809-the-road-to-character?from_search=true&from_srp=true&qid=1y30EvSPJJ&rank=1)
@@ -23,7 +24,7 @@ Books I've fully read and recommend:
 - [On Photography](https://www.goodreads.com/book/show/52372.On_Photography?from_search=true&from_srp=true&qid=aX0RMQm3p7&rank=1)
 - [Iron John](https://www.goodreads.com/book/show/122600.Iron_John?from_search=true&from_srp=true&qid=0vQxElui4l&rank=1)
 
-Books I've partially read and recommend:
+### Books I've partially read and recommend:
 - [12 Rules for Life: An Antidote to Chaos](https://www.goodreads.com/book/show/30257963-12-rules-for-life?from_search=true&from_srp=true&qid=cHF2ShFtgp&rank=1)
 - [The Icarus Deception: How High will You Fly?](https://www.goodreads.com/book/show/15843041-the-icarus-deception?from_search=true&from_srp=true&qid=cpGcNcC9Qn&rank=1)
 - [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work?from_search=true&from_srp=true&qid=z83czwVIw8&rank=1)
@@ -33,5 +34,5 @@ Books I've partially read and recommend:
 - [Made to Stick: Why Some Ideas Survive and Others Die](https://www.goodreads.com/book/show/69242.Made_to_Stick?from_search=true&from_srp=true&qid=naJcb2iP0v&rank=1)
 - [The Win without Pitching Manifesto](https://www.goodreads.com/book/show/8576838-the-win-without-pitching-manifesto?from_search=true&from_srp=true&qid=fK6nBLiair&rank=1)
 
-Currently reading:
+### Currently reading:
 - [Through the Psalms](https://www.goodreads.com/book/show/2502801.Through_the_Psalms_with_Derek_Prince?from_search=true&from_srp=true&qid=E9FSZgLo1o&rank=4)
