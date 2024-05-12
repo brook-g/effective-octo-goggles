@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: 
+subtitle: possibly the beginning of something new
 ---
 [This](https://x.com/mrbrookg/status/1774293119246221422?s=46) experiment is morphing into interesting pieces. What started as a thought experiment is becoming an [experiment in artistic style](https://x.com/mrbrookg/status/1788129143944573342?s=46). 
 
