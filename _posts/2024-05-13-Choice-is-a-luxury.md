@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: and here’s why you should
+subtitle: a luxury you're unaware of
 ---
 You have been endowed with a luxury that’s taken for granted. 
 
@@ -26,6 +26,9 @@ Tyrion knew the ins and outs of the law. He knew he can’t beat the system beca
 
 Tyrion used the law and his privilege as a highborn to disarm the king and keep himself alive.
 
+---
+{: .hr3}
+
 Think of time as a platform for choice.
 
 Each moment is unique and irretrievable. Each moment registers a choice. Time determines the number of unique and irretrievable moments dedicated to an activity. Answers to “What do I want to do/be in x unit of time?” are exclusive by nature. 
@@ -34,10 +37,12 @@ Naturally, you want to decrease the [Opportunity Cost](https://www.investopedia.
 
 Practice making less hasty decisions. Practice connecting your higher vision with your daily life. Practice making each moment contribute to your higher vision. [*Pray without ceasing*](https://discoveringprayer.com/blog/7-ways-to-learn-to-pray-without-ceasing) (1 Thessalonians 5:16-18), is a kind reminder. 
 
-When you slow down, you cultivate clarity for yourself. You know what you have chosen. You know why. 
+When you slow down, you cultivate clarity. You become aware of choices, revealed and unrevealed. You know what to choose. You know why. 
 
-No, you don’t need to stick to a choice you make. You can change your mind anytime, anywhere. When you do, avoid the need to explain your choice(s) unless it affects others. 
+No, you don’t need to stick to a choice you make. You can change your mind anytime, anywhere. Unless it affects others, avoid the need to explain your choice(s).
 
-You don’t need to justify your choices either. You don’t need a rational, logical explanation for what you choose to do, or think. But realize that, in making up your mind initiates self-accountability. A consequence of which is growth.
+You don’t need to justify your choices. You don’t need a rational, logical explanation for what you choose to do, or think. But realize that, making up your mind initiates self-accountability. A consequence of which is growth.
 
-Choice is an egalitarian luxury. But by taking it for granted, you choose an unexamined life. Choice requisites awareness. Knowing it exists [can save your life](https://youtu.be/TCcDm2fGKXI?t=148). Time is a platform for making choices. Deciding what we want to do/be in x unit of time initiates a level of self-accountability that leads to consistency. Consistently matching your highest vision with choices in shorter time horizons from the present brings growth.
+Choice is an egalitarian luxury. Lacking this awareness makes choice an exclusive luxury. When you take it for granted, leads to an unexamined life. Choice requisites awareness. Knowing it exists [can save your life](https://youtu.be/TCcDm2fGKXI?t=148). 
+
+Time is a platform for making choices. Deciding what we want to do/be in x unit of time initiates a level of self-accountability that leads to consistency. Consistently matching your highest vision with choices in shorter time horizons from the present brings growth.
