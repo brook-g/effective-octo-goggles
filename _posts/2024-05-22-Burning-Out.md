@@ -1,7 +1,8 @@
 ---
 layout: post
-subtitle: the sacrificial pursuit of more
+subtitle: a sacrificial pursuit of more
 ---
+
 He keeps telling himself to maintain. To not let his fiery passions consume him. He keeps telling himself to remain on fire without being consumed.
 
 But he simply refuses to listen. 
@@ -14,14 +15,14 @@ He is now an empty cocoon, nature edging to decide whether he is useful buried i
 
 The answers lie in the question.
 
-## I **LET** my passions consume me.
+## I *let* my passions consume me.
 He’s been allowing his desires to move his eyes away from God and to the world. We’re all programmed to want more. Human endeavor is reaching higher highs *because* we want more. We want to excel, beat the competition, conquer more, live longer, earn more, do more, explore more.
 
 If a pursuer doesn’t tend to their mind often, the pursuit of more slowly begins to outweigh the value of the pursuer. The pursuer either values the importance of the pursuit more or the importance of self less.
 
 He slowly became indifferent to himself, his well-being, and the way he spent his time. He looked away from himself and his Sustenance. He *let* his passion run amuck. 
 
-## **BESIDES** God
+## *besides* God
 > “The Lord is my shepherd, I shall not lack.” 
 
 “God is the *only* provision I need,” he said to himself in quite desperation, “a kind of provision that needn’t company. A provision that overflows.”
@@ -30,7 +31,7 @@ Yet, in a moment of dissatisfaction, he found myself searching for something, or
 
 The search itself carries hints of his own comprehension of God and His provision. Piecing together these hints requires observation without judgement. Examining life with a mind filled with reminders that weaken the strongholds of “perfection”.
 
-## I am the **ONLY** one I have
+## I am the *only* one I have
 Growing up alone bred in him a relentless pursuit of perfection, a genuine enjoyment of boredom, and a mind that wanders – off into the world, or away from matters at hand. Presence was a rare commodity.
 
 Removing reliance on others became a practice of discerning transactional relationships, and genuine ones. To him, being precedes value.
@@ -44,4 +45,4 @@ Darkness began to conquer the room slowly. He ran out of wax, and the room was e
 ---
 {: .hr3}
 
-A relentless pursuit of more while disregarding God’s work. That's why he was burning out. That's why the room went dark. That's why he was blinded.
+A relentless pursuit of more while disregarding God’s work. That's why he was burning out. That's why the room went dark. That's what blinded him. That's what diminished his work.
