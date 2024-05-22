@@ -2,7 +2,6 @@
 layout: post
 subtitle: the sacrificial pursuit of more
 ---
-
 He keeps telling himself to maintain. To not let his fiery passions consume him. He keeps telling himself to remain on fire without being consumed.
 
 But he simply refuses to listen. 
