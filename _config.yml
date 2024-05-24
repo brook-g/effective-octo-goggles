@@ -5,6 +5,3 @@ url: "https://1092.co/"
 twitter: mrbrookg
 
 markdown: kramdown
-
-plugins:
-  - jekyll-feed
