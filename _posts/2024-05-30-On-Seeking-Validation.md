@@ -1,6 +1,6 @@
 ---
 layout: post
-subtitle: when it's okay, when it isn't
+subtitle: when it's okay as long as its abundance or lack doesn't question your self-worth
 ---
 I find myself struggling to share my work with peers. I find it even more terrifying to share on social media. 
 
