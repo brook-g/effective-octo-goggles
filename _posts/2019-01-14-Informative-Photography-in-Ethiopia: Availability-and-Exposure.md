@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Art, Curiosity]
 ---
 
 Like many developing nations, Ethiopia is undergoing substantial changes in its spatial, and socio-economic landscapes. As artists we respond, oppose, or simply document these changes using our preferred mode of communication.
