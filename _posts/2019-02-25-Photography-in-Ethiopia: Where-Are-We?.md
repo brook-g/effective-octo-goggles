@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Art, Curiosity]
 ---
 
 A series of questions one must ask:
