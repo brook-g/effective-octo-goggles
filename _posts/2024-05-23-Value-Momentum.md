@@ -1,6 +1,8 @@
 ---
 layout: post
 subtitle:
+category: Note to Self
+excerpt_separator: <!--more-->
 ---
 There’s a gift hidden in progress. A gift that defies this race against time we find ourselves trapped in. Momentum is a [gift given to those making progress](https://biblehub.com/matthew/25-29.htm).
 
