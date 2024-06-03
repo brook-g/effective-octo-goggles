@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Crypto]
 ---
 In the realm of global development, emerging technologies often hold the promise of innovative solutions, capable of addressing some of our most complex challenges. Of these innovations, cryptocurrency and the underlying blockchain technology are among the most transformative, offering new pathways to financial inclusion. The plight of Mozambique, a nation grappling with soaring mortgage rates and inadequate housing, is one such challenge that cryptocurrency could help alleviate.
 
