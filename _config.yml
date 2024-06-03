@@ -7,6 +7,3 @@ twitter: mrbrookg
 permalink: /:categories/:title/
 
 markdown: kramdown
-
-plugins:
-  - jekyll-feed
