@@ -1,5 +1,6 @@
 ---
 layout: post
+category: Note to Self
 ---
 
 as an [INFJ](https://www.16personalities.com/infj-personality), [Si (introverted sensing)](https://www.psychologyjunkie.com/infj-darkness-understanding-infjs-shadow-functions/)  is my weakest cognitive function. that means i tend to forget -- and at times, forgo -- the day-to-day: sleep, food, etc.
