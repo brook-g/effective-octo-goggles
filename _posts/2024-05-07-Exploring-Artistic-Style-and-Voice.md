@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: artistic identity is a combination of both, but transcends it
+categories: [Art, Curiosity]
 ---
 I posted a poll on Twitter asking,"ever felt unsure about your artistic style?" An account with such low engagement these days received 9 votes. The topic must have been provocative. I remembered that I had also written a quick thread on sticking to one artistic style. I never posted it.
 
