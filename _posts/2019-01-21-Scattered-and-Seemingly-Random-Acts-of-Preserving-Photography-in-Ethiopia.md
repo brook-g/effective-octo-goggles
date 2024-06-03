@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Art, Curiosity]
 ---
 
 *This article aims to organize and formally present attempts — both current and past — at preserving history of photography in Ethiopia.*
