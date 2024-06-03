@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: what do i do?
+categories: [Art, Note to Self]
 ---
 I have been exploring the nature of my work and trying to shove myself into a career, a massive injury to my Being. Whenever I try to label myself, or make myself available to only one occupation, I feel as though I am cutting pieces of my self. This is not good.
 
