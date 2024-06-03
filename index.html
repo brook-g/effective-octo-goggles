@@ -2,13 +2,23 @@
 layout: default
 title: 
 ---
-    <h1>Brook</h1>
-    Currently working on <a href="https://x.com/MrBrookG/status/1778300332378063247">this</a>. More <a href="https://linktr.ee/mr.brookg">about me</a>.
-    <hr class="hr1">
-    <h2>Posts</h2>
-    <ul>
-      {% for post in site.posts %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
+{% assign latest_post = site.posts | first %}
+<h2 style="font-size: medium; font-weight: 500; color: darkgray;">Latest</h2>
+<h2>{{ latest_post.title }}</h2>
+<span class="muted">{{ latest_post.excerpt | truncatewords: 20, "..." }} <a href="{{ latest_post.url }}">continue reading →</a></span>
+
+<hr class="hr2">
+
+<h2 style="font-size: medium; font-weight: 500; color: darkgray;">Topics</h2>
+{% for category in site.categories %} <a href="#{{ category[0] }}">{{ category[0] }}</a>{% if forloop.last == false %},{% endif %} {% endfor %}
+
+<hr class="hr2">
+
+<h2 style="font-size: medium; font-weight: 500; color: darkgray;">Posts</h2>
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}" >{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
