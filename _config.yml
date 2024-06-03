@@ -4,4 +4,9 @@ description: Brook's notebook
 url: "https://1092.co/"
 twitter: mrbrookg
 
+permalink: /:categories/:title/
+
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
