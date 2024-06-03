@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: An exploration of fear of death
+categories: [Curiosity]
 ---
 
 > In the face of death, we are compelled to seek the essence of life.
