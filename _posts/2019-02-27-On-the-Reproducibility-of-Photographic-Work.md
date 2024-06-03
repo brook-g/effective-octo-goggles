@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Art, Curiosity]
 ---
 
 An artisan’s work is that of the hands. Making is a sort of channeling of essence of the maker, the made and counterparts that make it to a single object; the Product. The maker lives uniquely, as experiences, in each make. The final product, besides being unique from the rest despite having the same measurements, also carries with it a unique form of the essence of its maker. Experiencing the product immediately implies experiencing the refined essence of its maker.
