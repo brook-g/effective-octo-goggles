@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: ubiquity as artistic style
+categories: [Art]
 ---
 Like the pen, the keyboard has become a powerful tool used in [building worlds](https://twitter.com/0x113d), [playing games](https://twitter.com/cryptothegame_), [exposing secrets](https://twitter.com/Snowden), [investigative work](https://twitter.com/zachxbt), and more. It served as a unique interface between the mind and the digital world.
 
