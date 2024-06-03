@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: a luxury you're unaware of
+categories: [Curiosity, Note to Self]
 ---
 You have been endowed with a luxury that’s taken for granted. 
 
