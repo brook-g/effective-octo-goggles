@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: a sacrificial pursuit of more
+category: Note to Self
 ---
 
 He keeps telling himself to maintain. To not let his fiery passions consume him. He keeps telling himself to remain on fire without being consumed.
