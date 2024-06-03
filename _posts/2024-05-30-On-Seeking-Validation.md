@@ -1,8 +1,12 @@
 ---
 layout: post
 subtitle: it's okay as long as the abundance or lack of outside validation doesn't make you question your self-worth
+category: Note to Self
+excerpt_separator: <!--more-->
 ---
 I find myself struggling to share my work with peers. I find it even more terrifying to share on social media. 
+
+<!--more-->
 
 I wasn’t like this before. I shared without hesitation. But something changed. It’s not crippling perfectionism. It’s not a lack of output. Nor a lack of time. 
 
