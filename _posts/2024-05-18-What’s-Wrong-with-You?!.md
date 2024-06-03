@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: 
+category: Note to Self
 ---
 *Whenever I feel uneasy, or left behind, I come back to a thought-pattern that grounds me. The following exercise is a structured form of said thought-pattern shared in case it helps anyone who finds themself here.*
 
