@@ -1,6 +1,7 @@
 ---
 layout: post
 subtitle: a short list of books i'm interested in
+categories: [Recommendation]
 ---
 Admittedly, I am not an avid reader as I'd like to be. Below, I have shared my book recommendations along with how much of it I have read. If you found any of these recommendations interesting, want to recommend me some books, or simply want to discuss ideas, reach out to me on [Twitter](https://twitter.com/MrBrookG).
 
