@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Art, Curiosity]
 ---
 
 Photography, in essence, stands on a fragment of truth, that which we call reality, to construct a truth of its own. Truth constructed by photography becomes so when the artist is fully satisfied with every aspect of the photograph: aesthetic, emotive, the story behind it, and the production quality. It is then that one can conclude that the produced work has spoken a truth of its own.
