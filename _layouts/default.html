@@ -1,6 +1,23 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {%- include head.html -%}
+  <style>
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 2.2rem;
+    }
+  </style>
+  <nav>
+    <span class="navbar">
+      <a class="muted small left" href="/">{{ site.title | escape }}</a>
+      <span class="right">
+        <a class="muted small" href="/about/">About</a>
+        <span class="muted small"> • </span>
+        <a class="muted small" href="/now/">Now</a>
+      </span>
+    </span>
+  </nav>
   <body>
     {{ content }}
   </body>
