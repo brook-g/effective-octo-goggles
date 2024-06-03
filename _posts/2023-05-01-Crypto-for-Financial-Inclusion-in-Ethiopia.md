@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: [Crypto]
 ---
 
 Financial inclusion - ensuring access to financial services for everyone, particularly the underserved - is vital to economic growth and social equity. Ethiopia's National Financial Inclusion Strategy (NFIS) acknowledges this and has made strides to increase access to these essential services. However, there is still more to be done. This essay will explore how digital innovations and cryptocurrencies, when used intelligently and strategically, can break down barriers and revolutionize financial inclusion in Ethiopia.
