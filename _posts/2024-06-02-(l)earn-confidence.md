@@ -1,7 +1,7 @@
 ---
 layout: post
 subtitle: a path to (l)earn confidence is knowing that is earned, but first learned.
-category: Note to self
+category: Note to Self
 ---
 Confidence is a deep conviction in yourself and your abilities. A conviction built on evidence. To some, evidence is provided. Kickstarting their path towards (l)earning confidence.
 
