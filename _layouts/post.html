@@ -5,10 +5,10 @@ layout: default
 {% if page.subtitle %}
     <p class="subtitle">{{ page.subtitle }}</p>
 {% endif %}
-<p class="muted small">{%- include reading-time.html -%}</p>
+<p class="muted small"> {{ page.date | date: "%B %-d, %Y" }} • {%- include reading-time.html -%} </p>
 <hr class="hr2">
 
 {{ content }}
 
-<p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p>
+<!--- <p class="muted small">First published on {{ page.date | date: "%B %-d, %Y" }}</p> --->
 {%- include footer.html -%}
